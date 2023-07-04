@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Vignjevic.
 - 👀 I’m interested in Data Analysis and Data Science. I am confident with R, Python, SQL, Spark, Power BI and Excel.
-- 🌱 I’m aspiring currently working as a Data Analyst in Data Science team in Fraud detection space.
+- 🌱 I’m currently working as a Data Analyst in Data Science team in Fraud detection space at Telesign.
 - 📫 You can reach me on Linked at https://www.linkedin.com/in/aleksandar-vignjevic/
 <!---
 alexvignjevic/alexvignjevic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
